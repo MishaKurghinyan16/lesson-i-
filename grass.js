@@ -1,6 +1,6 @@
 class Grass extends Main {
     constructor(x, y, multiplay) {
-        super(x, y, multiplay)
+        super(x, y)
         this.multiplay = 0;
 
 
