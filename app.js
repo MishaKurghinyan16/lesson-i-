@@ -34,7 +34,7 @@ function gener(n, m) {
 
 
 function setup() {
-    frameRate(60);
+    frameRate(6);
     createCanvas(matrix[0].length * side + 1, matrix.length * side + 1);
     background('#acacac');
     for (var y = 0; y < matrix.length; ++y) {
