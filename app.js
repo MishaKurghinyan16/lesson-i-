@@ -12,6 +12,7 @@ var matrix = [
 ]
 
 
+
 var side = 50;
 var fireArr = [];
 var grassArr = [];
